@@ -42,7 +42,7 @@
 2. Установить и запустить Docker Desktop;
 3. Склонировать репозиторий с Github командой через терминал:
 ```
-git clone git@github.com:ischeglov/Automation_Complex_Service
+git clone git@github.com:ischeglov/Automation_Complex_Service.git
 ```
 4. Открыть проект в IntelliJ IDEA.
 
